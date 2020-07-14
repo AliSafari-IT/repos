@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594712286032.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "28915963",
+    "id" : "FDB55875",
+    "lastKnownWriteTime" : 1594728570,
+    "last_content_update" : 1594728570346,
+    "path" : "C:/Projects/FinalPEM/autoArima/AutoArima_Data_Daily_type_A.r",
+    "project_path" : "AutoArima_Data_Daily_type_A.r",
+    "properties" : {
+        "cursorPosition" : "5,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

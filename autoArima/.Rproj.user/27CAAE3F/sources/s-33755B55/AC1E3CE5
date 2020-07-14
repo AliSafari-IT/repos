@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594717322883.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2473860832",
+    "id" : "AC1E3CE5",
+    "lastKnownWriteTime" : 1594721806,
+    "last_content_update" : 1594721806728,
+    "path" : "C:/Projects/FinalPEM/autoArima/AutoArima_Data_Q1_A.r",
+    "project_path" : "AutoArima_Data_Q1_A.r",
+    "properties" : {
+        "cursorPosition" : "47,0",
+        "scrollLine" : "9",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
